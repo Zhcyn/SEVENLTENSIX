@@ -1,0 +1,2 @@
+# SEVENLTENSIX
+It's a simple game where you need to find a word from a clue. I've learned: addTarget(), enumerated(), joined(), replacingOccurensies(), and programmatic way of creating view of our app. The current project is still under development, and the current stage is mainly to test the integrity of the system and the continuity of the interface. If you encounter problems during the test, please contact me
